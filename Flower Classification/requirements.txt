@@ -1,0 +1,7 @@
+pytesseract
+python-telegram
+pyTelegramBotAPI
+telebot
+tensorflow
+numpy
+Pillow
