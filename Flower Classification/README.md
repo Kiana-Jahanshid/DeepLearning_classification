@@ -32,7 +32,7 @@ train  | 0.8481  | 0.4208 |
 validation   | 0.7692  | 0.8456 |
 
 > # Conclusion :
-> ##  validation accuracy has been increased 10% in case of using Data Augmentation .
+> # validation accuracy increased by 10% using Data Augmentation .
 
 ### confusion matrix (with augmentation):
 <p float="center">
