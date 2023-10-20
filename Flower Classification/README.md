@@ -31,15 +31,15 @@ validation   | 0.6615  | 2.6746 |
 train  | 0.8481  | 0.4208 |
 validation   | 0.7692  | 0.8456 |
 
-## Conclusion (with Augmentation part):
-+ validation accuracy hhas been increased in case of using Data Augmentation 
+> # Conclusion :
+> ##  validation accuracy has been increased 10% in case of using Data Augmentation .
 
-### confusion matrix :
+### confusion matrix (with augmentation):
 <p float="center">
     <img src  = "https://github.com/kiana-jahanshid/DeepLearning_classification/blob/main/Flower%20Classification/assets/confmat.png" width=500 /> 
 </p>
 
-### loss & accuracy diagram :
+### loss & accuracy diagram (with augmentation):
 <p float="center">
     <img src  = "https://github.com/kiana-jahanshid/DeepLearning_classification/blob/main/Flower%20Classification/assets/loss_acc.png" width=500 /> 
 </p>
