@@ -1,6 +1,5 @@
 
 import telebot
-bot = telebot.TeleBot("6335967102:AAFVTw-zG3HbaGf6M-VHbaIw7KUh1zhOhPA")
 from telebot import types
 from telegram import *
 import telebot
@@ -14,6 +13,13 @@ from keras.preprocessing.image import load_img
 from keras.preprocessing.image import img_to_array
 from keras.applications.vgg16 import preprocess_input
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
+from dotenv import load_dotenv
+from os import environ as env
+
+load_dotenv()
+token = os.getenv('TOKEN')
+bot = telebot.TeleBot(token)
+
 
 dataset_train = "17flowers/train"
 dataset_test = "17flowers/test"
