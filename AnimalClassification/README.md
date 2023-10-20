@@ -26,9 +26,13 @@ train  | 0.89  | 0.32 |
 validation   | 0.7237  | 0.8913 |
 
 
-
+### confusion matrix :
 <p float="center">
     <img src  = "https://github.com/kiana-jahanshid/DeepLearning_classification/blob/main/AnimalClassification/assets/5_animals_conf_mat.png" width=500 /> 
+</p>
+
+### loss & accuracy diagram :
+<p float="center">
     <img src  = "https://github.com/kiana-jahanshid/DeepLearning_classification/blob/main/AnimalClassification/assets/5animals_loss_acc.png" width=500 /> 
     
 </p>
