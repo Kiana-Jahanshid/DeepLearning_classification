@@ -5,3 +5,4 @@ telebot
 tensorflow
 numpy
 Pillow
+python-dotenv
